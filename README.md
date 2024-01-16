@@ -83,4 +83,4 @@ py kelola.py runserver
 http://127.0.0.1:8000/
 ```
 <p align="center"><b>TERIMAKASIH SEMOGA BERMANFAAT</b></p>
-<p align="center">Copyrights &copy; Yoga Pratama 2024</p>
+<p align="center">Copyrights &copy; CYDCREATIVE 2024</p>
