@@ -7,7 +7,8 @@
 | ------------------------- | --------- | --------- | --------------------------- |
 | Yoga Pratama              | 312210042 | TI.22.A1  | Object Oriented Programming |
 | Cahyo Hidayatullah        | 312210079 | TI.22.A1  | Object Oriented Programming |
-| M.David Ali               | 312210291 | TI.22.A1  | Object Oriented Programming |
+| Muhamad David Ali         | 312210291 | TI.22.A1  | Object Oriented Programming |
+| Aditya Khaidirrahman      |312210286  | TI.22.A1  | Object Oriented Programming |
 
 ## Daftar Isi <br>
 
