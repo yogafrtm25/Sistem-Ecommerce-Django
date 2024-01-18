@@ -54,7 +54,7 @@
 ### Admin
 - Admin pertama akan login (untuk nama pengguna/kata sandi jalankan perintah berikut dalam cmd)
 ```
-py kelola.py buat pengguna super
+py kelola.py createsuperuser
 ```
 - Berikan nama pengguna, email, kata sandi dan akun admin Anda akan dibuat.
 - Setelah login, admin dapat melihat berapa Produk, Kategori, jumlah pesanan yang diterima di dashboard
@@ -69,19 +69,24 @@ py kelola.py buat pengguna super
 - Instal Python(3.7.6) (Jangan Lupa Centang Add to Path saat menginstal Python)
 - Buka Terminal dan Jalankan Perintah Berikut:
 ```
-python -m pip install -r persyaratan.txt
+python -m pip install -r requirement.txt
 
 ```
 - Unduh Folder Zip Proyek Ini dan Ekstrak
 - Pindah ke folder proyek di Terminal. Kemudian jalankan Perintah berikut:
 ```
-py kelola.py melakukan migrasi
-py kelola.py migrasi
+py kelola.py makemigrations
+py kelola.py migrate
 py kelola.py runserver
 ```
 - Sekarang masukkan URL berikut di Browser Anda yang Terpasang di PC Anda
 ```
 http://127.0.0.1:8000/
 ```
+
+Demo Aplikasi : 
+https://youtu.be/C8hnj3xqAwk?si=mofDbqNk0CfX52Oe
+
+
 <p align="center"><b>TERIMAKASIH SEMOGA BERMANFAAT</b></p>
-<p align="center">Copyrights &copy; CYDCREATIVE 2024</p>
+<p align="center">Copyrights &copy; Yoga Pratama 2024</p>
