@@ -1,5 +1,8 @@
 # Toserba
 ---
+Presentasi sistem : https://youtu.be/C8hnj3xqAwk?si=CNqZTbTSVbRlhZW_
+
+---
 
 ## Anggota Kelompok <br>
 
@@ -84,8 +87,6 @@ py manage.py runserver
 http://127.0.0.1:8000/
 ```
 
-Demo Aplikasi : 
-https://youtu.be/C8hnj3xqAwk?si=mofDbqNk0CfX52Oe
 
 
 <p align="center"><b>TERIMAKASIH SEMOGA BERMANFAAT</b></p>
