@@ -1,6 +1,6 @@
 # Toserba
 ---
-Presentasi sistem : https://youtu.be/C8hnj3xqAwk?si=CNqZTbTSVbRlhZW_
+Presentasi sistem : https://youtu.be/C8hnj3xqAwk?si=CNqZTbTSVbRlhZW
 
 ---
 
