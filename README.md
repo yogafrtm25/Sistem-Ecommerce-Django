@@ -54,7 +54,7 @@
 ### Admin
 - Admin pertama akan login (untuk nama pengguna/kata sandi jalankan perintah berikut dalam cmd)
 ```
-py kelola.py createsuperuser
+py manage.py createsuperuser
 ```
 - Berikan nama pengguna, email, kata sandi dan akun admin Anda akan dibuat.
 - Setelah login, admin dapat melihat berapa Produk, Kategori, jumlah pesanan yang diterima di dashboard
@@ -75,9 +75,9 @@ python -m pip install -r requirement.txt
 - Unduh Folder Zip Proyek Ini dan Ekstrak
 - Pindah ke folder proyek di Terminal. Kemudian jalankan Perintah berikut:
 ```
-py kelola.py makemigrations
-py kelola.py migrate
-py kelola.py runserver
+py manage.py makemigrations
+py manage.py migrate
+py manage.py runserver
 ```
 - Sekarang masukkan URL berikut di Browser Anda yang Terpasang di PC Anda
 ```
